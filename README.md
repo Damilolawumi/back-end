@@ -1,5 +1,13 @@
 # Refugee Stories
 
+## Update for Build Week Oct 21 - 25 (EU Team)
+Issues with protected register route and hard-coded admin details in the seed files.
+There was supposed to be a fall back pattern on all .env variables or they will be specified here. However they were not. So this fix aims to redeploy this script to Heroku on my account and define those config vars so my team can work with it.
+
+INITIAL_ADMIN_EMAIL as defined in data\seeds\002-admin.js line 2
+INITIAL_ADMIN_PASSWORD as defined in data\seeds\002-admin.js line 3
+JWT_SECRET as defined in auth\token-handlers.js lines 14 && 24
+
 ## Table Of Contents
 
 #### Public Endpoints
