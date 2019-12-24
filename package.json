@@ -28,5 +28,9 @@
     "start": "node index.js",
     "server": "nodemon index.js",
     "test": "cross-env DB_ENV=testing jest --watch --verbose"
+  },
+  "engines": {
+    "node": "8.10.0",
+    "npm": "6.12.0"
   }
 }
