@@ -10,10 +10,10 @@ exports.seed = function(knex, Promise) {
     },
     {
       source:
-        "https://medium.com/globalgoodness/12-powerful-refugee-stories-from-around-the-world-5c0a54d2e2ed",
-      title: "Bizimana",
+        "https://medium.com/globalgoodness/12-powerful-refugee-stories-from-around-the-world-asnm5c0a54d2e2ed",
+      title: "Bizimanssa",
       story:
-        "Bizimana was two years old when his family had to flee the Rwandan genocide to Burundi. From there he moved to camps in Tanzania and now lives in Nairobi, Kenya. He received business start-up training and has established a business that has grown so fast he is now able to start a cafe service. He is also a prize-winning singer."
+        "Bizimana was two years old when his family had to flee the Rwandan genocide to Burundi. From there he movsnwjnkwjnkdwed to camps in Tanzania and now lives in Nairobi, Kenya. He received business start-up training and has established a business that has grown so fast he is now able to start a cafe service. He is also a prize-winning singer."
     },
     {
       source:
