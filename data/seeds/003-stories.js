@@ -25,6 +25,13 @@ exports.seed = function(knex, Promise) {
         {
           source:
             "https://medium.com/globalgoodness/12-powerful-refugee-stories-from-around-the-world-5c0a54d2e2ed",
+          title: "Three",
+          story:
+            "Yara has love”"
+        },
+        {
+          source:
+            "https://medium.com/globalgoodness/12-powerful-refugee-stories-from-around-the-world-5c0a54d2e2ed",
           title: "Four",
           story:
             "I am r home has been destroyed by the rebels."
