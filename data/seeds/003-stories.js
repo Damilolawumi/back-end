@@ -120,5 +120,13 @@ exports.seed = function(knex, Promise) {
           story:
             "Abdul now lives in an apartmen"
         }
+        ,
+        {
+          source:
+            "https://medium.com/globalgoodness/12-powerful-refugee-stories-from-around-the-world-5c0a54d2e2ed",
+          title: "Seventeen",
+          story:
+            "Abdul now lives in an apartmen"
+        }
       ]);
 };
