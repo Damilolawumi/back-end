@@ -35,8 +35,8 @@ exports.up = function(knex, Promise) {
 
 exports.down = function(knex, Promise) {
   return knex.schema
-    .dropTableIfExists("roles")
-    .dropTableIfExists("accounts")
-    .dropTableIfExists("pending_stories")
-    .dropTableIfExists("stories");
+  .dropTableIfExists("stories")
+  .dropTableIfExists("pending_stories")
+  .dropTableIfExists("accounts")
+  .dropTableIfExists("roles")
 };
