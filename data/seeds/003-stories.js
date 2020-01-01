@@ -6,7 +6,7 @@ exports.seed = function(knex, Promise) {
         " ",
       title: "First Date; Photoshoot",
       story:
-        "I have never had an encounter with someone and connected instantly like I did with you. Anyone around that day wouldn’t believe that was our first date together. A very unconventional first date; with other people with us, a photoshoot. I’m glad we don’t have the regular first date story like other people ☺️"
+        "I have never had an encounter with someone and connected instantly like I did with you. Anyone around that day wouldn’t believe that was our first time meeting eahc other. A very unconventional first date; with other people with us, a photoshoot. I’m glad we don’t have the regular first date story like other people ☺️"
     },
     {
       source:
@@ -27,7 +27,7 @@ exports.seed = function(knex, Promise) {
         " ",
       title: "Sun Kissed!",
       story:
-        "On side, it’s funny how , one of the reasons I got serious with taking bomb ass pictures is ‘cos of you. I mean, I gotta know your angles so I can show the world the love of my life. I know how difficult it is to get you smile and actually show your teeth lol. Remember how I got you to do just that in ton this day?"
+        "On side, it’s funny how , one of the reasons I got serious with taking bomb ass pictures is ‘cos of you. I mean, I gotta know your angles so I can show the world the love of my life. I know how difficult it is to get you smile and actually show your teeth lol. Remember how I got you to do just that on this day?"
     },
     {
       source:
