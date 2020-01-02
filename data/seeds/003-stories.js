@@ -3,7 +3,7 @@ exports.seed = function(knex, Promise) {
   return knex("stories").insert([
     {
       source: "",
-      title: "Prvncess",
+      title: "Happy Birthday Baby ❤️",
       story:
         "I’m probably the most annoying person, always forcing you to take pictures of yourself for me. Somehow, you always always no matter the situation, and your mood, making sure I get JPEGs 🥰 especially for events I miss. ❤️"
     },
@@ -27,7 +27,7 @@ exports.seed = function(knex, Promise) {
     },
     {
       source: "",
-      title: "Happy Birthday Baby ❤️",
+      title: "Prvncess",
       story:
         "You put in a lot of effort making sure I’m not left alone to drown in my thoughts. You’re my support system and knowing I have you? Now that gives me a lot of hope. "
     },
@@ -77,19 +77,19 @@ exports.seed = function(knex, Promise) {
       source: "",
       title: "Rho’s JPEG",
       story:
-        "You make a lot of sacrifices for and I never get to say thank you enough. I mean you could have done anything you wanted but you chose to stay diplomatic on this day for me. Thank you ❤️ "
+        "You make a lot of sacrifices for me and I never get to say thank you enough. I mean you could have done anything you wanted but you chose to stay diplomatic on this day for me. Thank you ❤️ "
     },
     {
       source: "",
       title: "Sun Kissed!",
       story:
-        "On side, it’s funny how , one of the reasons I got serious with taking bomb ass pictures is ‘cos of you. I mean, I gotta know your angles so I can show the world the love of my life. I know how difficult it is to get you smile and actually show your teeth lol. Remember how I got you to do just that on this day?"
+        "On side, it’s funny how , one of the reasons I got serious with taking bomb ass pictures is ‘cos of you. I mean, I gotta know your angles so I can show the world the love of my life. I know how difficult it is to get you to smile and actually show your teeth lol. Remember how I got you to do just that on this day?"
     },
     {
       source: "",
       title: "Summer Body!",
       story:
-        "Since I met you, I’ve never known any place to have bad vibes with you around. You always find a way to light up the room. You’ve kept my life lit all through, and for this I say, Thankyou. "
+        "Since I met you, I’ve never known any place to have bad vibes with you around. You always find a way to light up the room. You’ve kept my life lit all through, and for this I say, Thank you. "
     },
     {
       source: "",
@@ -101,7 +101,7 @@ exports.seed = function(knex, Promise) {
       source: "",
       title: "First Date; Photoshoot",
       story:
-        "I have never had an encounter with someone and connected instantly like I did with you. Anyone around that day wouldn’t believe that was our first time meeting eahc other. A very unconventional first date; with other people with us, a photoshoot. I’m glad we don’t have the regular first date story like other people ☺️"
+        "I have never had an encounter with someone and connected instantly like I did with you. Anyone around that day wouldn’t believe that was our first time meeting each other. A very unconventional first date; a photoshoot. I’m glad we don’t have the regular first date story like other people ☺️"
     }
   ]);
 };
