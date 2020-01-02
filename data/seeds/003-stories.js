@@ -27,7 +27,7 @@ exports.seed = function(knex, Promise) {
     },
     {
       source: "",
-      title: "Prvncess",
+      title: "👑 Prvncess 🍯 💦 🍦💐",
       story:
         "You put in a lot of effort making sure I’m not left alone to drown in my thoughts. You’re my support system and knowing I have you? Now that gives me a lot of hope. "
     },
@@ -57,7 +57,7 @@ exports.seed = function(knex, Promise) {
     },
     {
       source: "",
-      title: "Okama",
+      title: "👑 Okama 🍦",
       story:
         "You are beautiful and I’m always grateful to call you mine. Thank you for loving me 🥰🥰"
     },
